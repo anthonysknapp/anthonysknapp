@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Homelab Projects</h2>
 
-- [Creating a Virtual Machine on VirtualBox](https://github.com/AznManIT/CreatingAVirtualMachineonVirtualBox)
+- [Creating a Virtual Machine on VirtualBox](https://github.com/anthonysknapp/Creating-a-Virtual-Machine)
 - [Setting up Windows Server 2019 on VirtualBox](https://github.com/AznManIT/SettingupWindowsServer2022)
 - [Configuring Windows Server 2022 Non-GUI](https://github.com/anthonysknapp/Configuring-Non-GUI-Windows-Server-2022)
 - [Configuring DNS](https://github.com/anthonysknapp/Configuring-DNS-)
