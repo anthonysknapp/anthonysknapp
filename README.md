@@ -4,7 +4,7 @@
 
 - [Creating a Virtual Machine on VirtualBox](https://github.com/AznManIT/CreatingAVirtualMachineonVirtualBox)
 - [Setting up Windows Server 2019 on VirtualBox](https://github.com/AznManIT/SettingupWindowsServer2022)
-- [Configuring Windows Server 2022 Non-GUI](https://github.com/AznManIT/ConfiguringNonGUIWindows2022Server)
+- [Configuring Windows Server 2022 Non-GUI](https://github.com/anthonysknapp/Configuring-Non-GUI-Windows-Server-2022)
 - [Configuring DNS](https://github.com/anthonysknapp/Configuring-DNS-)
 
 <h2> Certificates </h2>
