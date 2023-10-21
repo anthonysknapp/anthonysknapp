@@ -6,6 +6,7 @@
 - [Installing and Configuring Windows Server 2022 on VirtualBox](https://github.com/anthonysknapp/Installing-and-Configuring-Windows-Server-2022-Desktop-Edition)
 - [Configuring Windows Server 2022 Non-GUI](https://github.com/anthonysknapp/Configuring-Non-GUI-Windows-Server-2022)
 - [Configuring DNS](https://github.com/anthonysknapp/Configuring-DNS-)
+- [Setting up RDP](https://github.com/anthonysknapp/RDP)
 
 <h2> Certificates </h2>
 
