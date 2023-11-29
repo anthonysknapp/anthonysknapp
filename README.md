@@ -8,6 +8,7 @@
 - [Configuring DNS](https://github.com/anthonysknapp/Configuring-DNS-)
 - [Setting up RDP](https://github.com/anthonysknapp/RDP)
 - [Creating a Basic Homelab Active Directory](https://github.com/anthonysknapp/-Setup-of-basic-Homelab-Active-Directory)
+- [Creating a Cybersecurity Lab Using A Rasberry Pi](https://github.com/anthonysknapp/Setting-up-Raspberry-Pi-Lab-Environment-)
 
 <h2> Certificates </h2>
 
