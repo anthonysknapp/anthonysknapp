@@ -26,7 +26,7 @@
 
 
 [linkedin]: www.linkedin.com/in/anthonyknapp86
-[website]: https://https://aznmanithomelab.net
+[website]: https://aznmanithomelab.net
 
 <!---
 anthonysknapp/anthonysknapp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
